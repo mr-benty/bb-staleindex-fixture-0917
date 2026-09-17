@@ -1,0 +1,7 @@
+version: 2
+# marker: BLACKBIRD-STALEINDEX-CANARY-0e105128adfa-DEPB
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
